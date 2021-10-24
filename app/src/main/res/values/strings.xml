@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Our Application</string>
+    <string name="batik_gallery">Batik Gallery</string>
+    <string name="welcome_user">Welcome, User</string>
+    <string name="cari_batik">Cari Batik</string>
+    <string name="popular">Popular</string>
+    <string name="kategori">Kategori</string>
+    <string name="title">title</string>
+    <string name="tujuh_batik_populer">7 Batik Populer</string>
+    <string name="makna_batik">Makna Batik</string>
+    <string name="nama_batik">Nama Batik</string>
 </resources>
